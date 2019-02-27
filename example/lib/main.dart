@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
+
 import 'package:flutter_health_fit/flutter_health_fit.dart';
-//import 'package:flutter/services.dart';
-
-
 void main() => runApp(MyApp());
 
 class MyApp extends StatefulWidget {
